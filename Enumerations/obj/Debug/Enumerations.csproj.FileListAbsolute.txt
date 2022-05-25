@@ -1,0 +1,8 @@
+C:\Users\panos\source\repos\Enumerations\bin\Debug\Enumerations.exe.config
+C:\Users\panos\source\repos\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\panos\source\repos\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\panos\source\repos\Enumerations\obj\Debug\Enumerations.csproj.AssemblyReference.cache
+C:\Users\panos\source\repos\Enumerations\obj\Debug\Enumerations.csproj.SuggestedBindingRedirects.cache
+C:\Users\panos\source\repos\Enumerations\obj\Debug\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\panos\source\repos\Enumerations\obj\Debug\Enumerations.exe
+C:\Users\panos\source\repos\Enumerations\obj\Debug\Enumerations.pdb
